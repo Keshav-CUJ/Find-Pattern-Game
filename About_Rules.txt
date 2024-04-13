@@ -1,0 +1,4 @@
+Don't press other keys than q,a,z,w,s,x and esc.
+you have to find sequence of keys to complete the circle of LED's.
+Sequence can be found by pressing different keys among q,a,z,w,s,x and remember.
+press esc key for exit from the game. 
