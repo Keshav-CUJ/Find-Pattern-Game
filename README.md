@@ -1,4 +1,4 @@
-#Presenting a new game Find Pattern Game#
+#Presenting a new game Find Pattern Game
 Find pattern Game is a mind game built in c language
 <br>
 easily you can runn it on turbo c++
