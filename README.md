@@ -1,4 +1,4 @@
-# 🎮 Presenting: Find Pattern Game
+# 🎮 Presenting: Find Pattern Game (My Second Project)
 
 ## 🧠 A Mind Game to Challenge Your Memory!
 **Find Pattern Game** is a fun and engaging **mind game** built using the **C programming language**.
